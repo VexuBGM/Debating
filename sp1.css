@@ -342,3 +342,97 @@ hr {
     bottom: 25% !important;
   }
 }
+
+
+
+
+.template-box {
+  width: 80%;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  text-align: center;
+}
+.template-img img {
+  width: 30%;
+  margin: 50px;
+}
+
+.template-example h2 {
+  text-align: left;
+  margin-bottom: 10px;
+  font-weight: 100;
+  color: #009688;
+}
+
+.steps {
+  display: flex;
+  align-items: center;
+  margin-bottom: 40px;
+}
+.template-text {
+  padding: 0 20px;
+  text-align: initial;
+}
+
+
+
+
+
+
+
+
+
+
+/*
+.importnat-box {
+  width: 80%;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  text-align: center;
+}
+
+.important-things {
+  flex-basis: 50%;
+}
+
+.important-img {
+  flex-basis: 50%;
+  margin: auto;
+}
+.important-img img {
+  width: 70%;
+  border-radius: 10px;
+}
+
+.important-things h1 {
+  text-align: left;
+  margin-bottom: 10px;
+  font-weight: 100;
+  color: #009688;
+}
+
+.imortant-desc {
+  display: flex;
+  align-items: center;
+  margin-bottom: 40px;
+}
+
+.important-icon .fa {
+  width: 60px;
+  height: 60px;
+  font-size: 40px;
+  line-height: 50px;
+  border-radius: 8px;
+  color: #009688;
+  border: 1px solid #009688;
+}
+
+.important-text {
+  padding: 0 20px;
+  text-align: initial;
+}
+*/
