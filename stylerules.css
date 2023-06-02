@@ -31,9 +31,9 @@ body {
 }
 
 .logo {
-  width: 120px;
+  width: 180px;
   cursor: pointer;
-  margin-left: 20px;
+  margin-left: 10px;
 }
 
 .navbar ul li {
